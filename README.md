@@ -1,5 +1,5 @@
 <h1>Hi!👋 I'm Nisha Anandrao Kadam</h1>
- <p>- Hi there! I'm a final-year Computer Science student with a strong focus on full-stack development. I thrive on creating dynamic, scalable applications that enhance user experiences and meet complex requirements.</p>
+ <p>- Hi there! I'm a Computer Science graduate with a strong focus on full-stack development. I thrive on creating dynamic, scalable applications that enhance user experiences and meet complex requirements.</p>
  <p>- I'm a full-stack developer who’s always eager to learn and adapt.</p>
  <p>- My journey as a full-stack developer started with a curiosity about how things work on both the front end and the back end. Over the time, I’ve honed my skills in different languages and frameworks.</p>
  <p>- As a full-stack developer, I’m always looking to the future, eager to explore and master emerging technologies.</p><br>
